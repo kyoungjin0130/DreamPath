@@ -1,4 +1,4 @@
-# DreamPath
+## DreamPath
 DreamPath는 대화 기반 AI 성향 분석을 통해
 사용자의 정체성과 가치관을 이해하고,
 이를 기반으로 직업·학과 추천과
